@@ -790,6 +790,9 @@ a:hover {
 
 .work-img img {
   transition: all 1s;
+  width: 100%;
+  height: 250px;
+  object-fit: cover;
 }
 
 .work-content {
