@@ -1,2 +1,2 @@
 My Postfolio
-https://arbazkhan-cs.github.io/My-Portfolio/
+https://arbazkhan-cs.github.io/my-portfolio/
